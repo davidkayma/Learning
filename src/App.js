@@ -13,7 +13,8 @@ class App extends Component {
           </p>
           <p>
 
-           Practice makes perfect
+           Hello world
+           
            
 
           </p>
