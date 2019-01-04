@@ -13,7 +13,7 @@ class App extends Component {
           </p>
           <p>
 
-           So much learning so little time :)
+           Practice makes perfect
            
 
           </p>
